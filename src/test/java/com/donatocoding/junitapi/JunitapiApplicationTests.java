@@ -1,0 +1,13 @@
+package com.donatocoding.junitapi;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+public class JunitapiApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
